@@ -30,3 +30,8 @@
 
 :star: “La tecnología y la música me enseñan que siempre se puede crear algo único.”
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
